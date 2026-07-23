@@ -1,0 +1,10 @@
+{
+  "source_url": "https://jwc.cugb.edu.cn/xszq/",
+  "request_timeout_seconds": 10,
+  "request_retries": 2,
+  "cache_ttl_seconds": 60,
+  "server": {
+    "host": "127.0.0.1",
+    "port": 8000
+  }
+}
